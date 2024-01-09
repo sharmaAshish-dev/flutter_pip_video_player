@@ -2,6 +2,8 @@
 
 This Flutter project showcases how to incorporate Picture-in-Picture (PiP) functionality into your Flutter applications. PiP allows users to watch videos or use specific app features while the app is minimized or running in the background.
 
+![PiP Demo](assets/demo.gif)
+
 ## Features
 
 - **PiP Integration:** Demonstrates the implementation of PiP mode in Flutter apps.
